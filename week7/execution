@@ -1,0 +1,6 @@
+npm init (or) npm init –y
+package.json file created show above fig.1.
+ Installing require modules
+npm i express nodemon fs path jsonwebtoken
+Note:
+Download Postman or thunder client for middleware.
